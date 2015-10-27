@@ -6,16 +6,17 @@ If you'd like to give a talk to our motley crew of React developers / users / lo
 
 Check out the talk dates below, the theme for that date, and the suggested topics.
 
-Once you've got a talk idea, open a new "Issue" by [clicking here](https://github.com/reactsydney/talks/issues/new?body=**Talk%20Date**%0A%0A%0A**Talk%20Title**%0A%0A%0A**Twitter-sized%20Overview%20(140%20characters)**%0A%0A%0A**Detailed%20Overview**%0A).
+Once you've got a talk idea, open a new "Issue" by [clicking here](https://github.com/reactsydney/talks/issues/new?body=**Talk%20Date**%0A%0A%0A**Talk%20Title**%0A%0A%0A**Length**%0A%0A%0A**Twitter-sized%20Overview%20(140%20characters)**%0A%0A%0A**Detailed%20Overview**%0A).
 
 Make sure you fill out the following information:
 
 * Talk Date
 * Talk Title
+* Length
 * Twitter-sized Overview (140 characters)
 * Detailed Overview
 
-[**Submit your talk now**](https://github.com/reactsydney/talks/issues/new?body=**Talk%20Date**%0A%0A%0A**Talk%20Title**%0A%0A%0A**Twitter-sized%20Overview%20(140%20characters)**%0A%0A%0A**Detailed%20Overview**%0A)
+[**Submit your talk now**](https://github.com/reactsydney/talks/issues/new?body=**Talk%20Date**%0A%0A%0A**Talk%20Title**%0A%0A%0A**Length**%0A%0A%0A**Twitter-sized%20Overview%20(140%20characters)**%0A%0A%0A**Detailed%20Overview**%0A)
 
 ---
 
