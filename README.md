@@ -36,7 +36,7 @@ We're looking for 2 talks, preferrably between 30-60 minutes in length, but shor
 
 ### Theme
 
-Intro to React / Welcome to React, Sydney
+_"Intro to React / Welcome to React, Sydney"_
 
 Suggested topics could include (but are not limited to):
 
