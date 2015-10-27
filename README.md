@@ -32,7 +32,7 @@ Make sure you fill out the following information:
 
 Our first ever React Sydney Meetup!
 
-We're looking for 2 talks, preferrably between 30-60 minutes in length, but shorter ones are good too if the topic is popular.
+We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are good too if the topic is popular.
 
 ### Theme
 
