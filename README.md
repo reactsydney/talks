@@ -26,13 +26,25 @@ Make sure you fill out the following information:
 
 ---
 
+## Monday, Feburary 8, 2016
+
+[More details on meetup.com](http://www.meetup.com/React-Sydney/events/228423591/)
+
+React Sydney is back!
+
+We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are good too if the topic is popular.
+
+### Theme
+
+_"The React Ecosystem"_
+
+---
+
 ## Monday, November 9, 2015
 
 [More details on meetup.com](http://www.meetup.com/React-Sydney/events/226074352/)
 
 Our first ever React Sydney Meetup!
-
-We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are good too if the topic is popular.
 
 ### Theme
 
