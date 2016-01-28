@@ -38,6 +38,15 @@ We're looking for 2 talks, preferably between 30-60 minutes in length, but short
 
 _"The React Ecosystem"_
 
+Suggested topics could include (but are not limited to):
+
+ * CSS in React
+ * Thinking in React for jQuery developers
+ * Flux / Application state management
+ * Server queries (GraphQL / Falcor / xhr)
+ * React testing libs
+ * ... Anything to do with React :D
+
 ---
 
 ## Monday, November 9, 2015
@@ -49,11 +58,3 @@ Our first ever React Sydney Meetup!
 ### Theme
 
 _"Intro to React / Welcome to React, Sydney"_
-
-Suggested topics could include (but are not limited to):
-
- * Smart vs Dumb components
- * CSS in React
- * Modular UI; Why React is awesome
- * Thinking in React for jQuery developers
- * Introducing React into your codebase
