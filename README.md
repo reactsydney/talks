@@ -6,6 +6,8 @@ We're trying something different and using GitHub Issues for talk submissions. T
 
 After each meetup, we (or the speaker) will update issues with slides, links, and other useful information.
 
+[**Submit your talk now**](https://github.com/reactsydney/talks/issues/new?body=**Talk%20Date**%0A%0A%0A**Talk%20Title**%0A%0A%0A**Length**%0A%0A%0A**Twitter-sized%20Overview%20(140%20characters)**%0A%0A%0A**Detailed%20Overview**%0A)
+
 ## Submit a proposal
 
 Check out the talk dates below, the theme for that date, and the suggested topics.
