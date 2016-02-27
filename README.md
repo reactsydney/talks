@@ -28,6 +28,26 @@ Make sure you fill out the following information:
 
 ---
 
+## Monday, March 7, 2016
+
+[More details on meetup.com](http://www.meetup.com/React-Sydney/events/229174524/)
+
+React Sydney has gone monthly!
+
+We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are great too.
+
+### Theme
+
+_"Post React.js Conf"_
+
+Suggested topics could include (but are not limited to):
+
+ * Why draft.js will change rich text editing
+ * React Native & it's ecosystem
+ * ... Anything to do with React, really :D
+
+---
+
 ## Monday, Feburary 8, 2016
 
 [More details on meetup.com](http://www.meetup.com/React-Sydney/events/228423591/)
