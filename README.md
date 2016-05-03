@@ -26,6 +26,28 @@ Make sure you fill out the following information:
 
 [**Submit your talk now**](https://github.com/reactsydney/talks/issues/new)
 
+## Things to think about
+
+Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/codeware). It's a very good overview of how to design a good slidedeck for a technical presentation.
+
+### Slides
+
+Our current venue doesn't use a projector, but instead uses 2 flatscreen TVs that are quite a bit smaller. Because of this:
+
+* Use very large fonts and less text per screen so your slide is legible at the back of the room
+
+* If you have code examples, we suggest you make them take up the entire screen with as large a font as possible
+
+* Minimise the use of code examples and bullet points as they will be hard to read
+
+* If you want to demo something, consider using a screen capture movie or gif. [licecap](http://www.cockos.com/licecap) is a tool that can help with this.
+
+### Speaking
+
+We use a hand-held mike rather than a lapel or headset so practice presenting with one hand holding a mike.
+
+Think about where you need your laptop positioned for advancing slides based on where you like to stand while speaking (at the front of the room, or off to the side).
+
 ---
 
 ## Monday, March 7, 2016
