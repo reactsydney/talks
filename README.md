@@ -44,7 +44,7 @@ Our current venue doesn't use a projector, but instead uses 2 flatscreen TVs tha
 
 ### Speaking
 
-We use a hand-held mike rather than a lapel or headset so practice presenting with one hand holding a mike.
+We use a hand-held mike rather than a lapel or headset so practice presenting with one hand [holding a mike](http://assets.nydailynews.com/polopoly_fs/1.1523784.1384980457!/img/httpImage/image.jpg_gen/derivatives/article_970/hug.jpg).
 
 Think about where you need your laptop positioned for advancing slides based on where you like to stand while speaking (at the front of the room, or off to the side).
 
