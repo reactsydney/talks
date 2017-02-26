@@ -50,9 +50,9 @@ Think about where you need your laptop positioned for advancing slides based on 
 
 ---
 
-## Monday, March 7, 2016
+## Monday, March 6, 2016
 
-[More details on meetup.com](http://www.meetup.com/React-Sydney/events/229174524/)
+[More details on meetup.com](https://www.meetup.com/React-Sydney/events/237511288/)
 
 React Sydney has gone monthly!
 
