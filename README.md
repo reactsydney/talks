@@ -32,13 +32,15 @@ Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/c
 
 ### Slides
 
-Our current venue doesn't use a projector, but instead uses 2 flatscreen TVs that are quite a bit smaller. Because of this:
+Our current venue uses [a dual-projector](https://secure.meetupstatic.com/photos/event/d/f/d/highres_463503581.jpeg), plus supplimentary LCD screens halfway along the room.
+
+General tips for great looking slides:
 
 * Use very large fonts and less text per screen so your slide is legible at the back of the room
 
 * If you have code examples, we suggest you make them take up the entire screen with as large a font as possible
 
-* Minimise the use of code examples and bullet points as they will be hard to read
+* Minimise the use of _long_ code examples and bullet points as they will be hard to read
 
 * If you want to demo something, consider using a screen capture movie or gif. [licecap](http://www.cockos.com/licecap) is a tool that can help with this.
 
@@ -48,57 +50,42 @@ We use a hand-held mike rather than a lapel or headset so practice presenting wi
 
 Think about where you need your laptop positioned for advancing slides based on where you like to stand while speaking (at the front of the room, or off to the side).
 
----
+Here's an outline of the equipment available at the venue:
 
-## Monday, March 6, 2016
+ * Lecturn for placing laptop
+ * Chargers available for most common laptops
+ * Dual projectors, 16:9 ratio
+ * Handheld mic (or lapel mic if necessary, however we've had technical troubles with it in the past)
+ * (TBC) recording equipment to record the talk (at your permission)
 
-[More details on meetup.com](https://www.meetup.com/React-Sydney/events/237511288/)
+What we don't have:
 
-React Sydney has gone monthly!
+ * Slide clicker
+ 
+What you need to bring:
 
-We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are great too.
+ * Your laptop (we can provide one if needed, but let us know at least a couple days in advance)
+ * Your slides
+ * A smile (everyone is very friendly!)
 
-### Theme
+### Run sheet
 
-_"Post React.js Conf"_
+The event will run in the following order (but note the times are estimates, we often run either over or ahead of time - it's pretty casual):
 
-Suggested topics could include (but are not limited to):
+ * `6:00` - doors open
+ * `6:30` - Jed + Jess intro the evening / any community news
+ * `6:40` - First talk
+ * `7:10` - Pizza break
+ * `7:25` - Second talk
+ * `7:55` - toilet break
+ * `8:00` - Third talk
+ * `8:30` - Outro by Jed + Jess
+ * `8:45` - leave the venue
+ 
+We'll let you know the exact order of the talks before the date (via the GitHub issue) so you're ready :)
 
- * Why draft.js will change rich text editing
- * React Native & it's ecosystem
- * ... Anything to do with React, really :D
-
----
-
-## Monday, Feburary 8, 2016
-
-[More details on meetup.com](http://www.meetup.com/React-Sydney/events/228423591/)
-
-React Sydney is back!
-
-We're looking for 2 talks, preferably between 30-60 minutes in length, but shorter ones are good too if the topic is popular.
-
-### Theme
-
-_"The React Ecosystem"_
-
-Suggested topics could include (but are not limited to):
-
- * CSS in React
- * Thinking in React for jQuery developers
- * Flux / Application state management
- * Server queries (GraphQL / Falcor / xhr)
- * React testing libs
- * ... Anything to do with React :D
+It's useful if you can come say to Jess (tall, long dreadlocks) or Jed (err... standing next to the tall guy with dreadlocks ¯\\_(ツ)\_/¯ ) before we start 6:30, we can test your laptop to make sure it connects and there are no surprises.
 
 ---
 
-## Monday, November 9, 2015
-
-[More details on meetup.com](http://www.meetup.com/React-Sydney/events/226074352/)
-
-Our first ever React Sydney Meetup!
-
-### Theme
-
-_"Intro to React / Welcome to React, Sydney"_
+See also the **[Talk Archive](https://github.com/reactsydney/talks/issues?utf8=%E2%9C%93&q=is%3Aissue)**.
